@@ -1,0 +1,50 @@
+/* Stylesheet for Evidence 3 */
+
+html body {
+	background-color: #21294C;
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+	color: #F9F2D7; 
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif" ; 
+	font-weight: 50; /* Weight for the text */
+	font-size: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	vertical-align: top;
+	color:#EAB64D; /* Color for headers */
+	font-weight: 50; /* Weight for headers */
+}
+
+header, section {
+	vertical-align: top;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+ul li {
+	vertical-align: top;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	text-decoration: none;
+	color:#EAB64D ; 
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"
+}
+.what {
+	background-color: #141829;
+	padding: 20px;
+}
+
+.outer {
+	background-image:url(http://euw.leagueoflegends.com/sites/default/files/styles/scale_large/public/upload/art/poolparty_wallpaper.jpg?itok=Ra_9KR0H);
+	padding: 50px;
+}
+.inner { 
+background-color: rgba(0,0,0,0.91);
+color: white;
+	padding: 15px;
+	margin: 0px;
+	  }
